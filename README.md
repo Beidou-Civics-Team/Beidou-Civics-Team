@@ -13,7 +13,9 @@
 
 ![image](https://github.com/user-attachments/assets/c6828dc3-9a7d-4c92-833a-fe7a0293b4bf)     ![image](https://github.com/user-attachments/assets/dd8e1ccb-6e3d-4ad2-a9c7-3918c7e655aa)
 
-无限水电；内置空调、打印机。此外，还配备服务器（双卡 A6000!!）给大家跑模型！！（再也不用担心大模型跑不动啦！doge）
+无限水电；内置空调、打印机。此外，还配备服务器（一台双卡A6000、一台4090、一台3090）给大家跑模型！！（再也不用担心大模型跑不动啦！doge）
+
+
 
 ## 北斗救生衣
 ![image](https://github.com/user-attachments/assets/d0330cb0-f102-4ecd-b3b7-6dc43a8790e8)
@@ -38,6 +40,8 @@
 - 全国大学生数学建模大赛二等奖
 
 - 广东省大学生工程实践与创新能力大赛一等奖
+  
+- mathercup数学建模竞赛大数据竞赛全国二等奖
 
 ![image](https://github.com/user-attachments/assets/823f6b18-1433-449b-a7fd-d7028bcba751)
 
